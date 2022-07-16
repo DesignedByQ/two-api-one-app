@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/henry/twoapis/api1/application/venv"
+set -gx VIRTUAL_ENV "/home/henry/two-api-one-app/twoapis/api1/application/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
